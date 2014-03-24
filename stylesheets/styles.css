@@ -816,11 +816,11 @@ small {
 }
 
 nav {
-  width: 230px;
+  width: 220px;
   position: fixed;
   top: 220px;
   left: 50%;
-  margin-left: -580px;
+  margin-left: -570px;
   text-align: right;
 }
 nav ul {

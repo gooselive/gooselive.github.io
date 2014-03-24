@@ -4,7 +4,7 @@
 
 ### [![heroku](https://d1lpkba4w1baqt.cloudfront.net/heroku-logo-light-234x60.png)](http://www.heroku.com)
 
-### [![hostinger](http://hostinger.s3.amazonaws.com/r/f3b995924913f7d0c8e42d5e15455970/7169e2e488f785b1c8f10af3380751da.png)](http://www.heroku.com)
+### [![hostinger](http://hostinger.s3.amazonaws.com/r/f3b995924913f7d0c8e42d5e15455970/7169e2e488f785b1c8f10af3380751da.png)](http://www.hostinger.co.uk.com)
 
 ### [![openshift](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTD-EUpYYdfmCSEJRfrELtl9psWwcoLwRuxYdF5q2lEBDVulRLj)](https://www.openshift.com/)
 
