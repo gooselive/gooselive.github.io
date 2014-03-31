@@ -98,8 +98,6 @@ div.pmatrix {text-align:center;}
 table.pmatrix {width:100%;}
 span.bar-css {text-decoration:overline;}
 img.cdots{vertical-align:middle;}
-.titlepage{margin-top: 200px;}
-.tableofcontents{margin-left: 50px;}
 h2.titleHead{text-align:center;}
 div.maketitle{ margin-bottom: 2em; text-align:center; }
 div.author, div.date {text-align:center;}
@@ -124,5 +122,7 @@ h1.partHead{text-align: center}
 .figure img.graphics {margin-left:10%;}
 td#TBL-2-1-1{border-left:solid black 0.4pt;border-right:solid black 0.4pt;}
 td#TBL-2-20-1{border-left:solid black 0.4pt;border-right:solid black 0.4pt;}
+td:first-child{border: none;}
+section{margin-left: auto; margin-right: auto;}
 /* end css.sty */
 
