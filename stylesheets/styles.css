@@ -851,13 +851,25 @@ nav ul a:hover {
 }
 
 footer {
+/* To float footer on bottem left side
   width: 180px;
   position: fixed;
   left: 50%;
   margin-left: -530px;
   bottom: 20px;
-  text-align: right;
+  text-align: right;*/
   line-height: 16px;
+/* To center footer on page bottom*/ 
+  width: auto;
+  position: relative;
+  left: auto;
+  bottom: auto;
+  margin: 20px auto;
+  text-align: center
+}
+
+a.hosting>span.hide {
+  visibility: hidden;
 }
 
 @media print, screen and (max-width: 1060px) {

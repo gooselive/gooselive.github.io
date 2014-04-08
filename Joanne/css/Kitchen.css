@@ -1,6 +1,7 @@
  
 /* start css.sty */
-.subsubsectionHead{font-size: 200%;}
+nav ol li span.chapterToc a {line-height: 5px;}
+.subsubsectionHead{font-size: 200%; page-break-before: always;}
 .ptmr8t-x-x-109{}
 .phvb8t-x-x-207{font-size:188%;font-family: sans-serif; font-weight: bold;}
 .ptmr8t-x-x-144{font-size:130%;}
@@ -15,7 +16,8 @@ p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
 p.nopar { text-indent: 0em; }
 p.indent{ text-indent: 1.5em }
-@media print {div.crosslinks {visibility:hidden;}}
+@media print { div.crosslinks {visibility:hidden;}
+.chapterHead{visibility: hidden;}}
 a img { border-top: 0; border-left: 0; border-right: 0; }
 center { margin-top:1em; margin-bottom:1em; }
 td center { margin-top:0em; margin-bottom:0em; }
@@ -124,5 +126,9 @@ td#TBL-2-1-1{border-left:solid black 0.4pt;border-right:solid black 0.4pt;}
 td#TBL-2-20-1{border-left:solid black 0.4pt;border-right:solid black 0.4pt;}
 td:first-child{border: none;}
 section{margin-left: auto; margin-right: auto;}
+nav ul li {
+    line-height: 0.8em;
+    padding: 5px 0;
+}
 /* end css.sty */
 
